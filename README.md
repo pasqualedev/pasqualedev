@@ -1,1 +1,34 @@
-🚀 Enzo Rodrigo | Solution Architect & Full Stack DeveloperSou um Desenvolvedor Full Stack e Arquiteto de Soluções focado em transformar desafios de negócio em plataformas escaláveis e de alta performance. Atualmente, projeto sistemas que unem engenharia de software à inteligência de mercado para reduzir custos operacionais e acelerar a tomada de decisão.🛠️ No que estou trabalhando agoraTransição de Ecossistema: Consolidando minha expertise em .NET e C# para arquiteturas robustas e sistemas distribuídos.Inovação Corporativa: Liderando o desenvolvimento de ferramentas proprietárias na Schadek Automotive.📈 Projetos de Alto ImpactoOKRFlow (Strategic PMO): Desenvolvi uma plataforma SaaS completa em Next.js para substituir o Monday.com, gerando uma economia direta de R$ 78.000,00 anuais para a empresa.Radar de Inovação: Arquitetei um motor de automação e Web Scraping que reduziu o tempo de processamento de dados de 120 horas mensais para apenas alguns segundos.PagLemon (v2): Atuei como Tech Lead na arquitetura de um gateway de pagamentos multimodal, garantindo escalabilidade e resiliência em ambientes de alta transacionalidade.💻 Stack TécnicaLinguagens: TypeScript, JavaScript, C#, Node.js, Bun.Frontend & Mobile: Next.js, React Native, Expo.Arquitetura & DevOps: APIs RESTful, Microsserviços, Docker, CI/CD Pipelines.Dados & IA: Neon DB, Web Scraping avançado, Integração com LLMs (Claude, GPT, Copilot).🏎️ Além do TerminalQuando não estou depurando código ou desenhando arquiteturas, provavelmente estou estudando a plataforma VAG (Volkswagen/Audi Group), explorando mecânica, upgrades de performance e codificações via VCDS.📫 Vamos nos conectar?LinkedIn: [Seu Link Aqui] Email: enzodearruda@gmail.com Localização: Araraquara/Campinas - SP
+# 🚀 Enzo Rodrigo | Software Developer & Solution Architect
+
+Desenvolvedor Full Stack com foco técnico na criação de arquiteturas modernas e soluções de alto impacto para negócios. [cite_start]Atualmente, projeto sistemas que unem engenharia de software à inteligência de mercado para reduzir custos operacionais e acelerar a tomada de decisão estratégica[cite: 4, 15].
+
+---
+
+### 🛠️ Foco Atual e Tecnologias
+Estou em um processo constante de aprimoramento técnico, consolidando minha base no ecossistema JavaScript e expandindo minha atuação para o ambiente .NET corporativo.
+
+* **Linguagens & Backend:** TypeScript, JavaScript, Node.js, C#, .NET, Bun.
+* **Frontend & Mobile:** Next.js, React Native / Expo.
+* [cite_start]**Infraestrutura & DevOps:** Docker, CI/CD, Pipelines, APIs RESTful, Webhooks[cite: 11, 24, 25].
+* [cite_start]**Arquitetura:** Microservices, SaaS, System Design e Análise de Trade-offs[cite: 12, 16, 22].
+
+---
+
+### 📈 Projetos de Destaque
+Minha trajetória é marcada pela entrega de soluções que resolvem problemas reais e geram economia mensurável:
+
+* **OKRFlow:** Arquitetura e desenvolvimento de uma plataforma SaaS proprietária para gestão de projetos estratégica. A solução substituiu ferramentas comerciais, gerando uma economia de **R$ 78.000,00 anuais** em licenças.
+* **Radar de Inovação:** Criação de um motor avançado de automação e Web Scraping para monitoramento de patentes e indicadores econômicos do setor automotivo. Reduziu o tempo de processamento de dados de **120 horas mensais para apenas alguns segundos**.
+* **PagLemon:** Liderança técnica na arquitetura de um ecossistema robusto de pagamentos multimodais, integrando PIX, cartões e criptoativos em ambientes de alta transacionalidade.
+
+---
+
+### 🏁 Além do Terminal
+Fora do desenvolvimento, sou entusiasta da plataforma **VAG (Volkswagen/Audi Group)**, dedicando tempo ao estudo de manutenção mecânica, upgrades de performance e codificação via VCDS.
+
+---
+
+### 📫 Vamos nos conectar?
+* **LinkedIn:** [Seu Link do LinkedIn]
+* **Email:** enzodearruda@gmail.com
+* **Localização:** Araraquara / Campinas - SP
