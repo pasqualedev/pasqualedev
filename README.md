@@ -1,6 +1,6 @@
 # 🚀 Enzo Rodrigo | Software Developer & Solution Architect
 
-Desenvolvedor Full Stack com foco técnico na criação de arquiteturas modernas e soluções de alto impacto para negócios. [cite_start]Atualmente, projeto sistemas que unem engenharia de software à inteligência de mercado para reduzir custos operacionais e acelerar a tomada de decisão estratégica[cite: 4, 15].
+Desenvolvedor Full Stack com foco técnico na criação de arquiteturas modernas e soluções de alto impacto para negócios. Atualmente, projeto sistemas que unem engenharia de software à inteligência de mercado para reduzir custos operacionais e acelerar a tomada de decisão estratégica.
 
 ---
 
@@ -9,8 +9,8 @@ Estou em um processo constante de aprimoramento técnico, consolidando minha bas
 
 * **Linguagens & Backend:** TypeScript, JavaScript, Node.js, C#, .NET, Bun.
 * **Frontend & Mobile:** Next.js, React Native / Expo.
-* [cite_start]**Infraestrutura & DevOps:** Docker, CI/CD, Pipelines, APIs RESTful, Webhooks[cite: 11, 24, 25].
-* [cite_start]**Arquitetura:** Microservices, SaaS, System Design e Análise de Trade-offs[cite: 12, 16, 22].
+* **Infraestrutura & DevOps:** Docker, CI/CD, Pipelines, APIs RESTful, Webhooks.
+* **Arquitetura:** Microservices, SaaS, System Design e Análise de Trade-offs.
 
 ---
 
@@ -29,6 +29,6 @@ Fora do desenvolvimento, sou entusiasta da plataforma **VAG (Volkswagen/Audi Gro
 ---
 
 ### 📫 Vamos nos conectar?
-* **LinkedIn:** [Seu Link do LinkedIn]
+* **LinkedIn:** https://www.linkedin.com/in/enzo-rodrigo-1076831b4/
 * **Email:** enzodearruda@gmail.com
 * **Localização:** Araraquara / Campinas - SP
