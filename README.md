@@ -1,4 +1,4 @@
-# Olá, eu sou o Enzo Rodrigo (pasqualedev) 👋
+# Olá, eu sou o Enzo Rodrigo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Focus-Full_Stack_Development-blueviolet?style=for-the-badge&logo=codeforces" alt="Foco Principal">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um Desenvolvedor de Software focado em construir soluções robustas, escaláveis e eficientes. Busco constantemente alinhar boas práticas de arquitetura de código com as melhores experiências para o usuário final. 
 
