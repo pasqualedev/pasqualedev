@@ -26,7 +26,6 @@ Aqui estão algumas das tecnologias com as quais trabalho no meu dia a dia:
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <!-- Adicione ou remova tecnologias abaixo de acordo com seu stack real (Java, C#, Go, etc.) -->
 </p>
 
@@ -70,6 +69,6 @@ Selecionei alguns dos meus principais projetos para você dar uma olhada:
 Seja para conversar sobre tecnologia, open-source ou oportunidades de projetos:
 
 * **LinkedIn:** [in/enzo-rodrigo-1076831b4](https://www.linkedin.com/in/enzo-rodrigo-1076831b4/)
-* **E-mail:** [seu.email@provedor.com]
+* **E-mail:** [enzopasquale.dev@gmail.com]
 
 ⚡ *“Talk is cheap. Show me the code.” – Linus Torvalds*
