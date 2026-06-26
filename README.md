@@ -51,7 +51,7 @@ Selecionei alguns dos meus principais projetos para você dar uma olhada:
 | Projeto | Descrição | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Víneo** | App mobile para gerenciamento de adegas e vinhos. | Node.js, TS, PostgreSQL | [Ver Projeto](https://github.com/pasqualedev/vineo) |
-| **Cortex** | App mobile para vestibulandos. | React, Tailwind, Vite | [Ver Projeto](https://github.com/pasqualedev/cortex) |
+| **Cortex** | Plataforma de estudos gamificada para o ENEM. | React, Tailwind, Vite | [Ver Projeto](https://github.com/pasqualedev/cortex) |
 
 ---
 
