@@ -1,34 +1,75 @@
-# 🚀 Enzo Rodrigo | Software Developer & Solution Architect
+# Olá, eu sou o Enzo Rodrigo (pasqualedev) 👋
 
-Desenvolvedor Full Stack com foco técnico na criação de arquiteturas modernas e soluções de alto impacto para negócios. Atualmente, projeto sistemas que unem engenharia de software à inteligência de mercado para reduzir custos operacionais e acelerar a tomada de decisão estratégica.
-
----
-
-### 🛠️ Foco Atual e Tecnologias
-Estou em um processo constante de aprimoramento técnico, consolidando minha base no ecossistema JavaScript e expandindo minha atuação para o ambiente .NET corporativo.
-
-* **Linguagens & Backend:** TypeScript, JavaScript, Node.js, C#, .NET, Bun.
-* **Frontend & Mobile:** Next.js, React Native / Expo.
-* **Infraestrutura & DevOps:** Docker, CI/CD, Pipelines, APIs RESTful, Webhooks.
-* **Arquitetura:** Microservices, SaaS, System Design e Análise de Trade-offs.
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Full_Stack_Development-blueviolet?style=for-the-badge&logo=codeforces" alt="Foco Principal">
+  <img src="https://img.shields.io/github/stars/pasqualedev?style=for-the-badge&color=gold" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</p>
 
 ---
 
-### 📈 Projetos de Destaque
-Minha trajetória é marcada pela entrega de soluções que resolvem problemas reais e geram economia mensurável:
+## 🚀 Sobre Mim
 
-* **OKRFlow:** Arquitetura e desenvolvimento de uma plataforma SaaS proprietária para gestão de projetos estratégica. A solução substituiu ferramentas comerciais, gerando uma economia de **R$ 78.000,00 anuais** em licenças.
-* **Radar de Inovação:** Criação de um motor avançado de automação e Web Scraping para monitoramento de patentes e indicadores econômicos do setor automotivo. Reduziu o tempo de processamento de dados de **120 horas mensais para apenas alguns segundos**.
-* **PagLemon:** Liderança técnica na arquitetura de um ecossistema robusto de pagamentos multimodais, integrando PIX, cartões e criptoativos em ambientes de alta transacionalidade.
+Sou um Desenvolvedor de Software focado em construir soluções robustas, escaláveis e eficientes. Busco constantemente alinhar boas práticas de arquitetura de código com as melhores experiências para o usuário final. 
 
----
-
-### 🏁 Além do Terminal
-Fora do desenvolvimento, sou entusiasta da plataforma **VAG (Volkswagen/Audi Group)**, dedicando tempo ao estudo de manutenção mecânica, upgrades de performance e codificação via VCDS.
+* 🛠️ Atualmente trabalhando com desenvolvimento de sistemas web e APIs de alta performance.
+* 🎓 Sempre evoluindo em engenharia de software, padrões de projeto e arquitetura de sistemas.
+* 🧠 Defensor do código limpo (*Clean Code*) e processos ágeis.
 
 ---
 
-### 📫 Vamos nos conectar?
-* **LinkedIn:** https://www.linkedin.com/in/enzo-rodrigo-1076831b4/
-* **Email:** enzodearruda@gmail.com
-* **Localização:** Araraquara / Campinas - SP
+## 🛠️ Tecnologias & Ferramentas
+
+Aqui estão algumas das tecnologias com as quais trabalho no meu dia a dia:
+
+### **Sistemas & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <!-- Adicione ou remova tecnologias abaixo de acordo com seu stack real (Java, C#, Go, etc.) -->
+</p>
+
+### **Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+</p>
+
+### **Infra & Bancos de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+---
+
+## 📌 Repositórios em Destaque
+
+Selecionei alguns dos meus principais projetos para você dar uma olhada:
+
+| Projeto | Descrição | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🚀 Nome do Projeto 1** | API RESTful desenvolvida para resolver [problema X]. | Node.js, TS, PostgreSQL | [Ver Projeto](https://github.com/pasqualedev/seu-repositorio) |
+| **💻 Nome do Projeto 2** | Dashboard interativo com foco em performance e UX. | React, Tailwind, Vite | [Ver Projeto](https://github.com/pasqualedev/seu-repositorio) |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasqualedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Enzo" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasqualedev&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+Seja para conversar sobre tecnologia, open-source ou oportunidades de projetos:
+
+* **LinkedIn:** [in/enzo-rodrigo-1076831b4](https://www.linkedin.com/in/enzo-rodrigo-1076831b4/)
+* **E-mail:** [seu.email@provedor.com]
+
+⚡ *“Talk is cheap. Show me the code.” – Linus Torvalds*
