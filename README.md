@@ -58,7 +58,7 @@ Selecionei alguns dos meus principais projetos para você dar uma olhada:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasqualedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Enzo" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasqualedev&show_icons=true&theme=tokyonight&count_private=true" alt="Enzo's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasqualedev&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
 </p>
 
